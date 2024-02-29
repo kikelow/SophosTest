@@ -1,7 +1,0 @@
-
-W
-java:S1118":Add a private constructor to hide the implicit public one.(Ô“é¯8ùó¥™ß1
-P
-java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠÞ›8Æº¥™ß1
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Æº¥™ß1

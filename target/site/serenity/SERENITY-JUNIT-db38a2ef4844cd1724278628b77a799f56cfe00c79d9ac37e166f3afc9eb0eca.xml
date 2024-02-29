@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Matriz de coordenadas" skipped="1" tests="1" time="0.64" timestamp="2024-02-27 11:18:28"><testcase name="Ubicar coordenadas en matriz"><compromised message="No page defined with the name 'null'" type="net.serenitybdd.screenplay.actions.UnknownPageException">No page defined with the name 'null'</compromised><system-err>No page defined with the name 'null'&#13;
-org.harinson.stepdefinitions.EmojiStepDefinitions.quiereAccederAElTestDeMatricesDelPortalEvalart(MatrizStepDefinitions.java:35)&#13;
-</system-err></testcase></testsuite>
